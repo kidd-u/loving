@@ -44,7 +44,7 @@ document.title +=
       (new Date().getMonth() + 1) +
       "-" +
       new Date().getDate(),
-    "2016-09-15"
+    "2012-08-31"
   ) +
   1 +
   "天";
